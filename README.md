@@ -240,7 +240,7 @@ For support, email contact@devrhylme.org or join our Discord community.
 ## 🔗 Links
 
 - Website: [https://devrhylme.org](https://devrhylme.org)
-- GitHub: [https://github.com/devrhylme](https://github.com/devrhylme)
+- GitHub: [https://github.com/devrhylme](https://github.com/DEVRhylme-Foundation)
 - Documentation: [https://devrhylme.org/docs](https://devrhylme.org/docs)
 
 ---
